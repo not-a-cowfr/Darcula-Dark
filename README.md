@@ -12,7 +12,6 @@
 
 ## Preview
 <img src="./images/preview.png"/>
-(Not an exact 1:1 theme)<br>
 
 <!--
 ### Install via Zed Extensions

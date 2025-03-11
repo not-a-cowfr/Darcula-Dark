@@ -1,5 +1,5 @@
 <p align="center">
-    <h3 align="center">Darcula Dark for <a href="https://zed.dev/">Zed Editor</a></h3>
+    <h1 align="center">Darcula Dark for <a href="https://zed.dev/">Zed Editor</a></h1>
     <p align="center">
 	A darker theme for <a href="https://zed.dev/">Zed</a> based on the <strong>Darcula</strong> theme from <a href="https://www.jetbrains.com">Jetbrains</a> IDEs.
       <br><br>
@@ -12,6 +12,7 @@
 
 ## Preview
 <img src="./images/preview.png"/>
+<sup>Darcula Dark Theme with Bearded Icons</sup>
 
 ### Install via Zed Extensions
 1. Open Zed

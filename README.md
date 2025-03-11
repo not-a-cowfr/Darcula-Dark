@@ -3,7 +3,7 @@
     <p align="center">
 	A darker theme for <a href="https://zed.dev/">Zed</a> based on the <strong>Darcula</strong> theme from <a href="https://www.jetbrains.com">Jetbrains</a> IDEs.
       <br><br>
-      Too dark? Check out <a href="https://github.com/e-simpson/new-darcula-z/">New Darcula</a> by <a href="https://github.com/e-simpson/">Evan Simpson</a> for a similar (but slightly brighter) theme
+      Too dark? Check out <a href="https://github.com/e-simpson/new-darcula-z/">New Darcula</a> by <a href="https://github.com/e-simpson/">Evan Simpson</a> for a similar (but lighter and more Jetbrains-accurate) theme
     </p>
 </p>
 
@@ -12,7 +12,6 @@
 
 ## Preview
 <img src="./images/preview.png"/>
-(Not an exact 1:1 theme)<br>
 
 <!--
 ### Install via Zed Extensions

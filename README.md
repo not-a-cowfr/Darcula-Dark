@@ -22,5 +22,5 @@
 -->
 
 ### Install Manually
-1. Download [darcula_dark.json](./themes/darkula_dark.json)
+1. Download [darcula_dark.json](./themes/darcula_dark.json)
 2. Put into `~/.config/zed/themes/`

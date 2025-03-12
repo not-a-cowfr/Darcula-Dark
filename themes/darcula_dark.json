@@ -92,7 +92,7 @@
         "info": "#72939c",
         "info.background": "#44475a50",
         "info.border": "#f9f9f905",
-        "version_control_modified": "#6772b8",
+        "version_control.modified": "#6772b8",
         "modified": "#6772b8",
         "modified.background": "#6772b8",
         "modified.border": "#6772b8",

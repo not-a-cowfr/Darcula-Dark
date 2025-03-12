@@ -1,7 +1,7 @@
 id             = "darcula-dark"
 name           = "Darcula Dark Theme"
 description    = "A darker theme for Zed based on the Darcula theme from Jetbrains IDEs"
-version        = "0.1.0"
+version        = "0.1.1"
 # Thanks to Evan for a large amount of the colors used, especially for the syntax highlighting
 authors        = ["Andrew Gielow <awgielow@gmail.com>", "Evan Simpson <evan@evan.news>"]
 repository     = "https://github.com/Not-a-cowfr/Darcula-Dark"

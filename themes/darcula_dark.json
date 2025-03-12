@@ -191,6 +191,11 @@
             "color": "#93689c",
             "font_style": null,
             "font_weight": null
+          },
+          "variable.special": {
+            "color": "#d97934",
+            "font_style": null,
+            "font_weight": 300
           }
         }
       }

@@ -55,7 +55,7 @@
         "editor.foreground": "#ffffff8f",
         "editor.background": "#1d1d1d",
         "editor.gutter.background": "#1d1d1d",
-        "editor.subheader.background": "#2196204f",
+        "editor.subheader.background": "#2a2a2a",
         "editor.active_line.background": "#ffffff02",
         "editor.highlighted_line.background": null,
         "editor.line_number": "#676975",

@@ -11,7 +11,7 @@
 > This theme was made with rust development in mind, if you spot any issues with another language please let me know!
 
 ## Preview
-<img src="./images/preview.png"/>
+<img src="./images/v0.1.1.png"/>
 <sup>Darcula Dark Theme with Bearded Icons</sup>
 
 ### Install via Zed Extensions

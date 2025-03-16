@@ -12,7 +12,7 @@
 
 ## Preview
 <img src="./images/v0.1.1.png"/>
-<sup>Darcula Dark Theme with Bearded Icons</sup>
+<sup>Darcula Dark Theme with Bearded Icons and ComicShannsMono font</sup>
 
 ### Install via Zed Extensions
 1. Open Zed

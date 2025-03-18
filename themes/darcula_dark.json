@@ -87,6 +87,13 @@
         "text.disabled": "#ffffff4f",
         "text.accent": "#3694ff",
 
+        "players": [
+          {
+            "cursor": "#909696",
+            "selection": "#2c393baf"
+          }
+        ],
+
         "error": "#ff5555",
         "error.background": "#a63d3d",
         "error.border": "#ff5555",

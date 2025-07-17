@@ -16,7 +16,7 @@
 
 ### Install via Zed Extensions
 1. Open Zed
-2. `ctrl+shift+p`/`cmd+shift+p` and select **zed: extensions**
+2. Press `ctrl+shift+x` or `cmd+shift+x`
 3. Search **Darcula Dark Theme** and click Install
 
 ### Install Manually
